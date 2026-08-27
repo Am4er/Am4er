@@ -33,19 +33,30 @@ Systems programming, kernel level development, cross platform desktop applicatio
 
 ## Security Classifications
 
-Understanding where a given action falls on the ethical and legal spectrum matters as much as the technical skill behind it.
+Understanding where an action falls on the ethical and legal spectrum matters as much as the technical skill behind it.
 
-| Classification | Description |
-|---|---|
-| **White Hat** | Authorized security professionals operating with explicit written permission and defined scope. Findings are disclosed responsibly to the system owner. This is the legal and professional standard. |
-| **Gray Hat** | Operates without formal authorization, typically without malicious intent, often disclosing vulnerabilities after discovery. Unauthorized access remains a criminal offense in most jurisdictions regardless of intent. |
-| **Black Hat** | Unauthorized intrusion for financial gain, data theft, disruption, or damage. Criminal activity with no legitimate justification. |
-| **Red Hat** | Vigilante actors who directly target black hat infrastructure rather than reporting it to authorities. Also used in some organizations to describe aggressive offensive security teams. |
-| **Red Team** | Authorized adversary simulation performed against your own organization to test detection and response capability under realistic attack conditions. |
-| **Blue Team** | Defensive operations covering monitoring, detection engineering, incident response, threat hunting, and system hardening. |
-| **Purple Team** | Coordinated model where offensive and defensive teams operate together, using attack results to directly improve detection coverage. |
+<br/>
 
-**My position:** I operate exclusively as a white hat. All testing is performed under written authorization and within an agreed scope.
+### By Intent
+
+| | Authorization | Description |
+|---|---|---|
+| ![White Hat](https://img.shields.io/badge/White_Hat-E6E6E6?style=for-the-badge&logoColor=black) | Explicit | Security professionals operating under written permission within a defined scope. Findings are disclosed responsibly to the system owner. The legal and professional standard. |
+| ![Gray Hat](https://img.shields.io/badge/Gray_Hat-6E6E6E?style=for-the-badge&logoColor=white) | None | Acts without formal permission, typically without malicious intent, often disclosing vulnerabilities after the fact. Unauthorized access remains a criminal offense regardless of intent. |
+| ![Black Hat](https://img.shields.io/badge/Black_Hat-121212?style=for-the-badge&logoColor=white) | None | Intrusion for financial gain, data theft, disruption, or damage. Criminal activity with no legitimate justification. |
+| ![Red Hat](https://img.shields.io/badge/Red_Hat-8B0000?style=for-the-badge&logoColor=white) | None | Vigilante actors who strike black hat infrastructure directly instead of reporting it. Effective in intent, still unlawful in method. |
+
+### By Operational Role
+
+| | Focus | Description |
+|---|---|---|
+| ![Red Team](https://img.shields.io/badge/Red_Team-C62828?style=for-the-badge&logoColor=white) | Attack | Authorized adversary simulation against your own organization, testing detection and response under realistic conditions. |
+| ![Blue Team](https://img.shields.io/badge/Blue_Team-1565C0?style=for-the-badge&logoColor=white) | Defend | Monitoring, detection engineering, incident response, threat hunting, and system hardening. |
+| ![Purple Team](https://img.shields.io/badge/Purple_Team-6A1B9A?style=for-the-badge&logoColor=white) | Both | Coordinated model where attack results feed directly into improved detection coverage. |
+
+<br/>
+
+> **Where I stand:** I operate exclusively as a white hat. Every engagement runs under written authorization and inside an agreed scope.
 
 <br/>
 
@@ -75,7 +86,7 @@ Understanding where a given action falls on the ethical and legal spectrum matte
 ## Security Tooling
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-15E0ED?style=flat-square&logo=parrotsecurity&logoColor=black)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-0A5A64?style=flat-square&logo=parrotsecurity&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
@@ -89,7 +100,7 @@ Understanding where a given action falls on the ethical and legal spectrum matte
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
 ![Shodan](https://img.shields.io/badge/Shodan-D40000?style=flat-square&logo=shodan&logoColor=white)
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white)
-![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
+![Hack The Box](https://img.shields.io/badge/Hack_The_Box-5B8A00?style=flat-square&logo=hackthebox&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
 
 ## Databases
@@ -116,9 +127,8 @@ Relational and non relational systems in production. Work covers normalization a
 ![Alpine](https://img.shields.io/badge/Alpine-0D597F?style=flat-square&logo=alpinelinux&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=flat-square&logo=freebsd&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows11&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0B4A82?style=flat-square&logo=windows11&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
 
 **Linux:** Kernel internals, process and memory management, systemd service architecture, filesystem permissions and ACLs, SELinux and AppArmor policy, iptables and nftables, namespaces and cgroups, package management across Debian, RHEL, and Arch families.
 
@@ -128,10 +138,10 @@ Relational and non relational systems in production. Work covers normalization a
 
 ## Development and Infrastructure
 
-![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-14707A?style=flat-square&logo=tauri&logoColor=white)
 ![Slint](https://img.shields.io/badge/Slint-2379F4?style=flat-square&logo=slint&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-2E7D32?style=flat-square&logo=qt&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
@@ -146,7 +156,7 @@ Relational and non relational systems in production. Work covers normalization a
 ![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=flat-square&logo=ubiquiti&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)
 ![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=flat-square&logo=opnsense&logoColor=white)
-![OpenWrt](https://img.shields.io/badge/OpenWrt-00B5E2?style=flat-square&logo=openwrt&logoColor=white)
+![OpenWrt](https://img.shields.io/badge/OpenWrt-00587A?style=flat-square&logo=openwrt&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white)
 
