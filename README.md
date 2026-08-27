@@ -10,6 +10,8 @@
 
 Cybersecurity engineer and software developer. I work across offensive and defensive security, network engineering, database systems, and low level development. Most of my time goes into hardening infrastructure, analyzing traffic and binaries, and building the tooling that supports both.
 
+> All security work is performed under written authorization and within an agreed scope.
+
 <br/>
 
 ## Areas of Expertise
@@ -28,35 +30,6 @@ Schema design, query optimization, indexing strategy, replication and clustering
 
 **Systems and Software**<br>
 Systems programming, kernel level development, cross platform desktop applications, backend services, security automation and internal tooling.
-
-<br/>
-
-## Security Classifications
-
-Understanding where an action falls on the ethical and legal spectrum matters as much as the technical skill behind it.
-
-<br/>
-
-### By Intent
-
-| | Authorization | Description |
-|---|---|---|
-| ![White Hat](https://img.shields.io/badge/White_Hat-E6E6E6?style=for-the-badge&logoColor=black) | Explicit | Security professionals operating under written permission within a defined scope. Findings are disclosed responsibly to the system owner. The legal and professional standard. |
-| ![Gray Hat](https://img.shields.io/badge/Gray_Hat-6E6E6E?style=for-the-badge&logoColor=white) | None | Acts without formal permission, typically without malicious intent, often disclosing vulnerabilities after the fact. Unauthorized access remains a criminal offense regardless of intent. |
-| ![Black Hat](https://img.shields.io/badge/Black_Hat-121212?style=for-the-badge&logoColor=white) | None | Intrusion for financial gain, data theft, disruption, or damage. Criminal activity with no legitimate justification. |
-| ![Red Hat](https://img.shields.io/badge/Red_Hat-8B0000?style=for-the-badge&logoColor=white) | None | Vigilante actors who strike black hat infrastructure directly instead of reporting it. Effective in intent, still unlawful in method. |
-
-### By Operational Role
-
-| | Focus | Description |
-|---|---|---|
-| ![Red Team](https://img.shields.io/badge/Red_Team-C62828?style=for-the-badge&logoColor=white) | Attack | Authorized adversary simulation against your own organization, testing detection and response under realistic conditions. |
-| ![Blue Team](https://img.shields.io/badge/Blue_Team-1565C0?style=for-the-badge&logoColor=white) | Defend | Monitoring, detection engineering, incident response, threat hunting, and system hardening. |
-| ![Purple Team](https://img.shields.io/badge/Purple_Team-6A1B9A?style=for-the-badge&logoColor=white) | Both | Coordinated model where attack results feed directly into improved detection coverage. |
-
-<br/>
-
-> **Where I stand:** I operate exclusively as a white hat. Every engagement runs under written authorization and inside an agreed scope.
 
 <br/>
 
