@@ -12,27 +12,6 @@ Cybersecurity engineer and software developer. I work across offensive and defen
 
 > All security work is performed under written authorization and within an agreed scope.
 
-<br/>
-
-## Areas of Expertise
-
-**Offensive Security**<br>
-Penetration testing, vulnerability research, exploit development, reverse engineering, binary analysis, red team operations, social engineering assessment.
-
-**Defensive Security**<br>
-Threat detection, incident response, malware analysis, digital forensics, SIEM engineering, log correlation, security hardening, blue team operations.
-
-**Network Engineering**<br>
-Routing and switching, firewall architecture, network segmentation, VPN and tunneling, packet analysis, intrusion detection, infrastructure monitoring.
-
-**Database Engineering**<br>
-Schema design, query optimization, indexing strategy, replication and clustering, backup and recovery, access control, injection prevention, database hardening.
-
-**Systems and Low Level Development**<br>
-Hypervisor development, kernel modules and drivers, firmware and bootloader work, systems programming, cross platform desktop applications, backend services, and internal security tooling.
-
-<br/>
-
 ## Languages
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
