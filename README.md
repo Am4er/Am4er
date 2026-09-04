@@ -88,8 +88,6 @@ Hypervisor development, kernel modules and drivers, firmware and bootloader work
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
 
-Relational and non relational systems in production. Work covers normalization and schema design, execution plan analysis and query tuning, index strategy, master and replica replication, connection pooling, transaction isolation and deadlock resolution, encryption at rest, least privilege access models, and parameterized query enforcement to eliminate injection surface.
-
 ## Operating Systems
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -103,12 +101,6 @@ Relational and non relational systems in production. Work covers normalization a
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0B4A82?style=flat-square&logo=windows11&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
 
-**Linux:** Kernel internals, process and memory management, systemd service architecture, filesystem permissions and ACLs, SELinux and AppArmor policy, iptables and nftables, namespaces and cgroups, package management across Debian, RHEL, and Arch families.
-
-**Windows:** Active Directory and domain architecture, Group Policy, registry internals, NTFS permissions, Windows Event Log analysis, PowerShell administration and remoting, LSASS and credential protection, Defender and AppLocker policy.
-
-**BSD and Unix:** FreeBSD jails, pf firewall configuration, ZFS storage management, and Unix permission and process models.
-
 ## Low Level and Systems Internals
 
 ![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white)
@@ -121,12 +113,6 @@ Relational and non relational systems in production. Work covers normalization a
 ![GDB](https://img.shields.io/badge/GDB-A42E2B?style=flat-square&logo=gnu&logoColor=white)
 ![WinDbg](https://img.shields.io/badge/WinDbg-003A70?style=flat-square&logo=windows&logoColor=white)
 ![UEFI](https://img.shields.io/badge/UEFI-336791?style=flat-square&logo=intel&logoColor=white)
-
-**Virtualization and Hypervisors:** Type 1 and Type 2 hypervisor internals, hardware assisted virtualization with Intel VT-x and AMD-V, extended and nested page tables, VMCS layout and VMExit handling, IOMMU device passthrough, nested virtualization, and building minimal bare metal hypervisors for research and introspection.
-
-**Kernel Development:** Loadable kernel modules and Windows kernel mode drivers, system call and interrupt handling, virtual memory and paging, scheduling and context switching, synchronization primitives and locking, IRQL and DPC handling on Windows, and kernel debugging with GDB, KGDB, and WinDbg.
-
-**Firmware and Boot:** UEFI and legacy BIOS boot flow, bootloader development, Secure Boot chain of trust, ACPI tables and device tree, TPM measured boot, and early hardware initialization.
 
 ## Development and Infrastructure
 
@@ -151,5 +137,3 @@ Relational and non relational systems in production. Work covers normalization a
 ![OpenWrt](https://img.shields.io/badge/OpenWrt-00587A?style=flat-square&logo=openwrt&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white)
-
-Protocol level work across TCP/IP, BGP, OSPF, VLAN and trunking, NAT, DNS, DHCP, TLS, and 802.1X. Firewall rule design, network segmentation, and traffic inspection at both the perimeter and internal boundaries.
