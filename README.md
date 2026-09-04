@@ -109,6 +109,25 @@ Relational and non relational systems in production. Work covers normalization a
 
 **BSD and Unix:** FreeBSD jails, pf firewall configuration, ZFS storage management, and Unix permission and process models.
 
+## Low Level and Systems Internals
+
+![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white)
+![KVM](https://img.shields.io/badge/KVM-5F259F?style=flat-square&logo=linux&logoColor=white)
+![Xen](https://img.shields.io/badge/Xen-0B4E30?style=flat-square&logo=xenserver&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D6?style=flat-square&logo=windows&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=flat-square&logo=llvm&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-A42E2B?style=flat-square&logo=gnu&logoColor=white)
+![WinDbg](https://img.shields.io/badge/WinDbg-003A70?style=flat-square&logo=windows&logoColor=white)
+![UEFI](https://img.shields.io/badge/UEFI-336791?style=flat-square&logo=intel&logoColor=white)
+
+**Virtualization and Hypervisors:** Type 1 and Type 2 hypervisor internals, hardware assisted virtualization with Intel VT-x and AMD-V, extended and nested page tables, VMCS layout and VMExit handling, IOMMU device passthrough, nested virtualization, and building minimal bare metal hypervisors for research and introspection.
+
+**Kernel Development:** Loadable kernel modules and Windows kernel mode drivers, system call and interrupt handling, virtual memory and paging, scheduling and context switching, synchronization primitives and locking, IRQL and DPC handling on Windows, and kernel debugging with GDB, KGDB, and WinDbg.
+
+**Firmware and Boot:** UEFI and legacy BIOS boot flow, bootloader development, Secure Boot chain of trust, ACPI tables and device tree, TPM measured boot, and early hardware initialization.
+
 ## Development and Infrastructure
 
 ![Tauri](https://img.shields.io/badge/Tauri-14707A?style=flat-square&logo=tauri&logoColor=white)
