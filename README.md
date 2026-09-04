@@ -28,8 +28,8 @@ Routing and switching, firewall architecture, network segmentation, VPN and tunn
 **Database Engineering**<br>
 Schema design, query optimization, indexing strategy, replication and clustering, backup and recovery, access control, injection prevention, database hardening.
 
-**Systems and Software**<br>
-Systems programming, kernel level development, cross platform desktop applications, backend services, security automation and internal tooling.
+**Systems and Low Level Development**<br>
+Hypervisor development, kernel modules and drivers, firmware and bootloader work, systems programming, cross platform desktop applications, backend services, and internal security tooling.
 
 <br/>
 
