@@ -5,6 +5,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Am4er&color=58A6FF&style=flat-square&label=views)](https://github.com/Am4er)
 
 </div>
+<br/>
 ## Languages
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
