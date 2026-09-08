@@ -5,13 +5,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Am4er&color=58A6FF&style=flat-square&label=views)](https://github.com/Am4er)
 
 </div>
-
-<br/>
-
-Cybersecurity engineer and software developer. I work across offensive and defensive security, network engineering, database systems, and low level development. Most of my time goes into hardening infrastructure, analyzing traffic and binaries, and building the tooling that supports both.
-
-> All security work is performed under written authorization and within an agreed scope.
-
 ## Languages
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
