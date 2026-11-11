@@ -2,7 +2,7 @@
 
 # Am4er
 
-**Cybersecurity Engineer &nbsp;|&nbsp; Network Engineer &nbsp;|&nbsp; Software Developer &nbsp;|&nbsp; Database Engineer**
+**Cybersecurity Engineer &nbsp;|&nbsp; Network Engineer &nbsp;|&nbsp; Software Engineer &nbsp;|&nbsp; Database Engineer**
 
 <sub>All security work is performed under written authorization and within an agreed scope.</sub>
 
